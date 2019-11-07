@@ -1,0 +1,64 @@
+<! doctype html>
+<html>
+<body>
+<h1>Jeep Cj5-Cj7 comparison</h1>
+  <p><strong>Which jeep is the best?</strong> <em> <hr/>  
+Under here are a few websites about the two diffent jeeps. These websites go deeper into the specs and other features of the two jeeps. Like in the caomparison chart is the site used to get information. 
+<hr/>  
+    <a href="https://docs.google.com/document/d/1yDJy2H2VyRVFbAimluG-4sVEJuKAFZqw-c8NzvSqQMY/edit?usp=sharing:">Comparison chart</a>
+    <hr/>
+      <a  href="http://www.differencebetween.net/object/auto-object/difference-between-cj5-and-cj7:" >More info</a>
+    
+    <hr/>
+       <a  href="https://en.m.wikipedia.org/wiki/Jeep_CJ:" >More about the name CJ</a>
+    
+    
+    
+</html>
+
+
+body {webkit-box-shadow: -12px -12px 0px #000000;
+
+moz-box-shadow: -12px -12px 1px #184365;
+
+box-shadow: -12px -12px 1px #184365;
+
+text-shadow: 1px 1px 10px #0000;background-image: -moz-linear-gradient(top, #FF0000, #0000CD);
+
+background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0.00, #FF0000), color-stop(1.0, #0000FF));
+
+background-color: #DDDDDD;
+}body {webkit-box-shadow: -12px -12px 0px #000000;
+
+moz-box-shadow: -12px -12px 1px #184365;
+
+box-shadow: -12px -12px 1px #184365;
+
+text-shadow: 7px 7px 10px #0000;background-image: -moz-linear-gradient(top, #FF0000, #0000CD);
+
+background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0.00, #FF0000), color-stop(1.0, #0000FF));
+
+background-color: #DDDDDD;
+}
+h1{center}
+a:link {
+  color: ;
+  background-color: transparent;
+  text-decoration: inherit;
+}
+a:visited {
+  color: Orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+  
+    
